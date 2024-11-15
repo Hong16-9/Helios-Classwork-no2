@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/h16/1class/yong/no5/build",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4 -std=gnu++11 -o CMakeFiles/no1.dir/no1.cpp.o -c /home/h16/1class/yong/no5/no1.cpp",
+  "file": "/home/h16/1class/yong/no5/no1.cpp"
+}
+]
